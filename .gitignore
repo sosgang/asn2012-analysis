@@ -1,0 +1,9 @@
+lib/*sources.jar
+lib/*javadoc.jar
+target/*/*
+target/.gitignore
+src/it/unibo/disi/asnanalysis/mylib/*
+.classpath
+.project
+org.eclipse.*
+data/output/paper/*
