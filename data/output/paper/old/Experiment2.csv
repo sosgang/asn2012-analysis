@@ -1,8 +1,0 @@
-Recruitment Field,Approach,Precision,Recall,F-Measure
-Recruitment Field,Approach,Precision,Recall,F-Measure
-05/E2,T-LR,0.649,0.750,0.696
-05/E2,T-SVM,0.628,0.844,0.720
-01/B1,OUR-SVM,0.727,0.750,0.738
-13/A1,T-LR,0.440,0.393,0.415
-13/A1,T-SVM,0.550,0.393,0.458
-13/A1,OUR-SVM,0.679,0.613,0.644
